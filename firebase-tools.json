@@ -1,0 +1,37 @@
+{
+	"analytics-uuid": "93ef7c10-73e1-4a52-a43f-48a1e668ab67",
+	"motd": {
+		"cloudBuildErrorAfter": 1594252800000,
+		"cloudBuildWarnAfter": 1590019200000,
+		"defaultNode10After": 1594252800000,
+		"minVersion": "3.0.5",
+		"node8DeploysDisabledAfter": 1613390400000,
+		"node8RuntimeDisabledAfter": 1615809600000,
+		"node8WarnAfter": 1600128000000,
+		"fetched": 1661726874113
+	},
+	"usage": true,
+	"user": {
+		"iss": "accounts.google.com",
+		"azp": "563584335869-fgrhgmd47bqnekij5i8b5pr03ho849e6.apps.googleusercontent.com",
+		"aud": "563584335869-fgrhgmd47bqnekij5i8b5pr03ho849e6.apps.googleusercontent.com",
+		"sub": "114979017040281240314",
+		"email": "maungcloth@gmail.com",
+		"email_verified": true,
+		"at_hash": "0uCfc9tWY-STUsYBG6tp3g",
+		"iat": 1661726883,
+		"exp": 1661730483
+	},
+	"tokens": {
+		"expires_at": 1661730482133,
+		"access_token": "ya29.a0AVA9y1tzZo3Pbx76kzgvDbQSrEHaLFWEwU1ilaVtfpPN29po_J97Uh6R_7e6DE8V29q3uTFF32VBJr_NhuaIC7-rMA7AGkYrna66snK2K4BoxhZIOa6XwxeiFeqU57Y_XH8jKW1-nLid9Do12dCcGW_U4rwr58YMafihaCgYKATASAQASFQE65dr8I3XJgNuP_JxYWeC6ZRryCg0171",
+		"expires_in": 3599,
+		"refresh_token": "1//0gauIhyjO4uNLCgYIARAAGBASNwF-L9IrOjc0O8Tv2z588CC4To1dWApmw6_ExcRh9NJWtFyw7i5vN6ybjHmnGdWWdrPUVZHxu5M",
+		"scope": "https://www.googleapis.com/auth/userinfo.email https://www.googleapis.com/auth/cloudplatformprojects.readonly https://www.googleapis.com/auth/firebase openid https://www.googleapis.com/auth/cloud-platform",
+		"token_type": "Bearer",
+		"id_token": "eyJhbGciOiJSUzI1NiIsImtpZCI6IjQwMmYzMDViNzA1ODEzMjlmZjI4OWI1YjNhNjcyODM4MDZlY2E4OTMiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJhY2NvdW50cy5nb29nbGUuY29tIiwiYXpwIjoiNTYzNTg0MzM1ODY5LWZncmhnbWQ0N2JxbmVraWo1aThiNXByMDNobzg0OWU2LmFwcHMuZ29vZ2xldXNlcmNvbnRlbnQuY29tIiwiYXVkIjoiNTYzNTg0MzM1ODY5LWZncmhnbWQ0N2JxbmVraWo1aThiNXByMDNobzg0OWU2LmFwcHMuZ29vZ2xldXNlcmNvbnRlbnQuY29tIiwic3ViIjoiMTE0OTc5MDE3MDQwMjgxMjQwMzE0IiwiZW1haWwiOiJtYXVuZ2Nsb3RoQGdtYWlsLmNvbSIsImVtYWlsX3ZlcmlmaWVkIjp0cnVlLCJhdF9oYXNoIjoiMHVDZmM5dFdZLVNUVXNZQkc2dHAzZyIsImlhdCI6MTY2MTcyNjg4MywiZXhwIjoxNjYxNzMwNDgzfQ.bEFy7F6XtjAnhHYcAJEIMsXMtKJW5J4e9893E9lckJ-m8YY8OAR77SwWnS2FN8G7yBZaRkMpf8zf0LA51AQd5dPlYHk4gTEojLYWXVvkuG4O1KLCfhJcyzCjaHThQArgdNujnytVOsT4UsLDp1TAes4dpdLAt1Jar4sBufpyVonLhBJN669wPovrYhR_BJOIRBMLDhJGnKu7rFzMNzGIWDxlF6AUoUy8-7jS0bLuvAuSeLNmGNSaDh1PXnnJh83an8swzj16J414C28dj5sOVqgxTFbC8BKtidUGuTZfYo54TRKMlotXLBeNTDBymZ6NR4vZ5zdUoPI7EH9nZjZ-pQ"
+	},
+	"activeProjects": {
+		"C:\\Users\\firla": "alat-tukang-bangunan"
+	}
+}
